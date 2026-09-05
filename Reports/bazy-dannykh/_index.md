@@ -9,6 +9,8 @@ order: 1.5
 
 [SQL Manager](https://aka.ms/ssms/22/release/vs_SSMS.exe)
 
+Файл базы данных: [CarServis_Новиков_3-ИСП9-51.mdf](CarServis_Новиков_3-ИСП9-51.mdf)
+
 ---
 
 <view defs="hierarchy=none" display="List"/>
